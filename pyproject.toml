@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "atlas-measurements"
+version = "0.1.1"
+description = "Find GCP location with the lowest RTT to Tbilisi"
+authors = ["Fedor Saveliev (https://github.com/theosaveliev)"]
+readme = "README.rst"
+license = "MIT"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.2.0"
+requests-mock = "^1.12.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
