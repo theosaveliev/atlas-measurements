@@ -237,3 +237,56 @@ RTT (avg)  Region                       Raw data
 80.1       Warsaw (europe-central2)     https://atlas.ripe.net/measurements/49294880
 95.9       Finland (europe-north1)      https://atlas.ripe.net/measurements/49294881
 =========  ===========================  ===============================================
+
+
+Test 7
+======
+
+All GE probes worldwide.
+
+Test date: Apr 22nd, 2025.
+
+Test subjects:
+
+1. AS35805 JSC "Silknet"
+2. AS16010 Magticom Ltd.
+3. AS49254 ALTERNET
+4. AS203136 LLC Ordunet
+5. AS20545 GRENA
+6. AS57354 SYSTEMA Ltd.
+
+Test goal:
+Identify lowest RTT GCP region.
+
+Test results:
+
+=========  ====================================  ===============================================
+RTT (avg)  Region                                Raw data
+=========  ====================================  ===============================================
+63.3       Frankfurt (europe-west3)              https://atlas.ripe.net/measurements/99121798
+64.2       Milan (europe-west8)                  https://atlas.ripe.net/measurements/99121801
+64.4       Zurich (europe-west6)                 https://atlas.ripe.net/measurements/99121800
+71.9       Belgium (europe-west1)                https://atlas.ripe.net/measurements/99121796
+72.8       Paris (europe-west9)                  https://atlas.ripe.net/measurements/99121802
+75.2       London (europe-west2)                 https://atlas.ripe.net/measurements/99121797
+77.5       Warsaw (europe-central2)              https://atlas.ripe.net/measurements/99121803
+85.9       Finland (europe-north1)               https://atlas.ripe.net/measurements/99121804
+149.2      Montreal (northamerica-northeast1)    https://atlas.ripe.net/measurements/99121812
+149.5      Northern Virginia (us-east4)          https://atlas.ripe.net/measurements/99121811
+158.7      South Carolina (us-east1)             https://atlas.ripe.net/measurements/99121810
+171.9      Iowa (us-central1)                    https://atlas.ripe.net/measurements/99121809
+193.4      Salt Lake City (us-west3)             https://atlas.ripe.net/measurements/99121807
+206.3      Oregon (us-west1)                     https://atlas.ripe.net/measurements/99121805
+211.0      Las Vegas (us-west4)                  https://atlas.ripe.net/measurements/99121808
+212.1      Los Angeles (us-west2)                https://atlas.ripe.net/measurements/99121806
+263.4      Sao Paulo (southamerica-east1)        https://atlas.ripe.net/measurements/99121814
+273.5      Santiago (southamerica-west1)         https://atlas.ripe.net/measurements/99121815
+293.9      Taiwan (asia-east1)                   https://atlas.ripe.net/measurements/99121820
+294.4      Tokyo (asia-northeast1)               https://atlas.ripe.net/measurements/99121822
+298.6      Hong Kong (asia-east2)                https://atlas.ripe.net/measurements/99121821
+301.9      Osaka (asia-northeast2)               https://atlas.ripe.net/measurements/99121823
+302.3      Jakarta (asia-southeast2)             https://atlas.ripe.net/measurements/99121819
+318.5      Seoul (asia-northeast3)               https://atlas.ripe.net/measurements/99121824
+329.1      Melbourne (australia-southeast2)      https://atlas.ripe.net/measurements/99121826
+330.1      Sydney (australia-southeast1)         https://atlas.ripe.net/measurements/99121825
+=========  ====================================  ===============================================
